@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607443944 source:c:\mystuffs\coding\projects\c\task 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1607444475 source:c:\mystuffs\coding\projects\c\task10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
